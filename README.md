@@ -1,6 +1,8 @@
 # Inventory Tracking Application
 
-## Stakeholders
+## Description
+
+## Stakeholders and their Interests
 
 ### Software Developer and Maintainer
 - Manageable (Easy to add and delete items)
@@ -27,6 +29,6 @@
 
 ### Robert - Store Owner
 
-Robert is 48 years old and owns the local Target. 
+Robert is 54 years old and owns the local Target. He hopes to make his Target one of the top stores in the company with the most consistent selection available for customers. Robert is not very computer savvy but understands that the use of computer systems can help his store become more efficient and better for customers. He is willing to invest in systems for his business as long as those systems give benefits in return.
 
 ## User Stories
