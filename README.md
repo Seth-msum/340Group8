@@ -42,7 +42,7 @@ Ben is 19 years old, he works full-time and in the evenings he attends his onlin
 
 ### Jaylin - Customer(Tomas Zamba)
 
-Jaylin loves Target, her grandmother and grandfather always broth her to target after church sermons. They would walk into Target looking for exquisite clothes as well the perfumes. At the end of their trip, her grandfather always both her ice coffee from Starbucks. Furthermore, since Jayling recently got a child, she only has time to walk in the isle for a short time. She knows other stores have an application where she can see their inventory. However, she does not want to be disloyal to Target. Additionally, Jaylin is not tech-savvy, after all. She only used her mobile phone when calling or messaging her friends or family. However, she is willing to learn more about operating the mobile phone effectively when Target has an application where she can see the inventory.
+Jaylin loves Target, her grandmother and grandfather always brought her to target after church sermons. They would walk into Target looking for exquisite clothes as well the perfumes. At the end of their trip, her grandfather always both her ice coffee from Starbucks. Furthermore, since Jaylin recently got a child, she only has time to walk in the aisle for a short time. She knows other stores have an application where she can see their inventory. However, she does not want to be disloyal to Target. Additionally, Jaylin is not tech-savvy, after all. She only used her mobile phone when calling or messaging her friends or family. However, she is willing to learn more about operating the mobile phone effectively when Target has an application where she can see the inventory.
 
 ## User Stories
 
@@ -57,6 +57,10 @@ Ben sees a lady( Jaylin) in discomfort, gazing at her phone and into the store. 
 ### Ben - Employee(Hayden Gagnon)
 
 While restocking shelves Ben notices that there are some items that he doesn't have enough of to fill the shelves. Ben checks the app to see if they have more in stock in the back or if he will have to notify his manager that they need to order more of these items. Ben quickly sees in the app that there is plenty of stock in the back and is able to go retrieve these items to finish stocking the shelves. 
+
+### Jaylin - Customer(Hayden Gagnon)
+
+Jaylin was really excited when she heard aout Target getting an app that tracked inventory so she could plan her trip to the store before she left her house. She would make her grocery list and before heading to target would check to make sure they have everything in stock so that she wouldn't have any surprises when she got there. Because of this she was able to notice that Target didn't have any chicken breasts available and was able to plan a meal that used a different meat than chicken before going to Target. Because of the app Jaylin had a much better shopping experience at Target than she would have if the app wasn't available.
 
 ## Use Case Diagram
 
