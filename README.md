@@ -54,6 +54,10 @@ Ben sees a lady( Jaylin) in discomfort, gazing at her phone and into the store. 
 
 While restocking shelves Ben notices that there are some items that he doesn't have enough of to fill the shelves. Ben checks the app to see if they have more in stock in the back or if he will have to notify his manager that they need to order more of these items. Ben quickly sees in the app that there is plenty of stock in the back and is able to go retrieve these items to finish stocking the shelves. 
 
+## Use Case Diagram
+
+![Alt text](./DocImages/usecasediagram.png "Use Case Diagrams")
+
 ## Requirements
 
 ### Functional
