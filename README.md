@@ -1,5 +1,7 @@
 # Inventory Tracking Application
 
+This application will provide store employees and customers with information about available products.
+
 ## Description
 
 This application will be used primarily by large stores that have a large variety and quantity of goods that they sell, but it will still be useful for smaller stores if they were to use it. Our application will allow store employees to keep track of how much of an item there is as well as give managers data about how much and how often items are sold so that they can be more prepared to order more of things before they run out. The app will also allow customers to see how much of an item is left in stock as well as telling them what aisle they can find the item in.
