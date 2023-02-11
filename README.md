@@ -32,6 +32,10 @@ This application will be used primarily by large stores that have a large variet
 
 ## Personas
 
+### Jay - Employee (Seth Bentley)
+
+Jay is 30 years old and is the overnight stocker for a local store. Jay does not know much about computers or technology but is excited to learn how to use this new application to make his job easier. He currently uses a paper print out of the items to be stocked and where they need to be.
+
 ### Robert - Store Owner(Hayden Gagnon)
 
 Robert is 54 years old and owns the local Target. He hopes to make his Target one of the top stores in the company with the most consistent selection available for customers. Robert is not very computer savvy but understands that the use of computer systems can help his store become more efficient and better for customers. He is willing to invest in systems for his business as long as those systems give benefits in return.
@@ -62,6 +66,13 @@ While restocking shelves Ben notices that there are some items that he doesn't h
 
 Jaylin was really excited when she heard aout Target getting an app that tracked inventory so she could plan her trip to the store before she left her house. She would make her grocery list and before heading to target would check to make sure they have everything in stock so that she wouldn't have any surprises when she got there. Because of this she was able to notice that Target didn't have any chicken breasts available and was able to plan a meal that used a different meat than chicken before going to Target. Because of the app Jaylin had a much better shopping experience at Target than she would have if the app wasn't available.
 
+### Robert - Owner(Seth Bentley)
+
+Robert just recieved his first weekly report of sales from the application and notices that he sold many more of one brand of soda than another. He contacts his manager and informs them to start more prominently displaying this higher selling brand and to have a larger stock on hand. Robert is happy to find that this lead to higher profits from soda sales.
+
+### Jay - Employee(Seth Bentley)
+
+Jay started his shift by checking the application for which ailse needed the most inventory stocked. He was able to see all the items he needed from the back store room. Jay appriciates how fast and efficent the application has made his job. 
 ## Use Case Diagram
 
 ![Alt text](./DocImages/usecasediagram.png "Use Case Diagrams")
@@ -69,7 +80,18 @@ Jaylin was really excited when she heard aout Target getting an app that tracked
 ## Requirements
 
 ### Functional
+1. Worker must be able to see how much of a given product is available by searching for name of product, or the item number.
+2. Stocking clerk must be able to add to the available inventory when a delivery arrives.
+3. Customer can see available items with price and ailse location.
+4. Worker must be able to edit available stock after a manual inventory count.
+5. Manager must have the ability to adjust the prices of products.
+6. Manager can manually refresh the current inventory count of a single item or a group (outside of normal updates).
+7. Owner and manager have access to report of number of items recieved and sold weekly.
 
 ### Non-Functional
+1. Customer can access the inventory count, ailse, and price without signing in. (Manager, owner, and employees have access to different tiers of access)
+2. All changes to inventory count, price, and location can be easily undone.
+3. Reports can be generated in under 3 hours during overnight hours.
 
 ### Non-Requirements
+1. No offline support is required.
