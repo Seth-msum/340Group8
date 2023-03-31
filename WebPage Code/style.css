@@ -1,0 +1,19 @@
+.container {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #ccc;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: left;
+}
+
+.guest-login {
+    margin-top: 20px;
+    text-align: left;
+}
