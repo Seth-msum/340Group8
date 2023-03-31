@@ -1,7 +1,7 @@
 ## Pre-Reqs
 
-### Have IDLE (Python 3.11 IDE) installed
-### Have Visual Studio Code installed
+#### Have IDLE (Python 3.11 IDE) installed
+#### Have Visual Studio Code installed
 
 ## Building
 
